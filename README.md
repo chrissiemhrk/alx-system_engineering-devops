@@ -1,3 +1,1 @@
-### About
-
-This repo contains my bash projects for the alx software engineerinig course
+My bash projects from the alx software engineering program
